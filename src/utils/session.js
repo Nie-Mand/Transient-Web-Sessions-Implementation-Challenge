@@ -7,7 +7,6 @@ import Momemt from 'moment'
 
 
 const MAX_INACTIVITY = 30
-const MAX_TIME = null
 
 const validate = session => {
     // This function verifies the Session Format, and Checks the Expiration Conditions
